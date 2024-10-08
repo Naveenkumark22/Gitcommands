@@ -1,0 +1,4 @@
+git checkout <feature-branch>           # Switch to the feature branch
+git add .                               # Stage all changes
+git commit -m "Your commit message"     # Commit with a message
+git push origin <feature-branch>        # Push changes to the remote feature branch

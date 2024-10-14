@@ -1,0 +1,5 @@
+git fetch origin
+git merge origin/master
+git commit
+git push origin feature-branch
+

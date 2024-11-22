@@ -3,3 +3,8 @@ git merge origin/master
 git commit
 git push origin feature-branch
 
+
+
+terminal:
+esc
+:wq   ->click enter
